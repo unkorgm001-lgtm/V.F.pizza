@@ -1,0 +1,30 @@
+{
+  "theme": "Ember & Crust High-Fidelity Pizza Storefront",
+  "colors": {
+    "background": {
+      "dark": "#12100E",
+      "surface": "#1C1917",
+      "card": "#24201D",
+      "elevated": "#2E2925"
+    },
+    "brand": {
+      "emberRed": "#E53935",
+      "emberRedHover": "#C62828",
+      "cheeseGold": "#FFB300",
+      "crustAmber": "#F57C00",
+      "basilGreen": "#43A047"
+    },
+    "text": {
+      "primary": "#FFFDF9",
+      "secondary": "#C7BEB5",
+      "muted": "#8C8278"
+    }
+  },
+  "assets": [
+    "assets/hero-pizza.png",
+    "assets/pizza-pepperoni.png",
+    "assets/pizza-margherita.png",
+    "assets/pizza-bbq.png",
+    "assets/pizza-veggie.png"
+  ]
+}
